@@ -1,3 +1,29 @@
 .iconf {
     background-color: #191C1F;
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+.iconList {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    
+}
+
+.iconItem {
+    display: flex;
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.iconItem span {
+    font-size: 24px;
+}
+
+.iconItem img {
+    align-self: center;
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
 }

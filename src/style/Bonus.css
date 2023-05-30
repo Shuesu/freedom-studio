@@ -73,3 +73,7 @@ textarea,
 select {
   font: inherit;
 }
+
+section {
+  margin-bottom: -16px;
+}

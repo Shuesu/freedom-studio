@@ -6,7 +6,7 @@ import right from '../../images/right-mark.png';
 
 const Home = () => {
     return (
-        <div className='home container'>
+        <section className='home container'>
             <div className='logo logo-home'>
                 <a href="#">
                     <img src={logo} alt="logo"/>
@@ -20,7 +20,7 @@ const Home = () => {
                 <img src={right}/>
                 </a>           
             </div>
-        </div>
+        </section>
     );
 }
 
