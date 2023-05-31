@@ -74,6 +74,6 @@ select {
   font: inherit;
 }
 
-section {
-  margin-bottom: -16px;
+ul {
+  padding: 0;
 }

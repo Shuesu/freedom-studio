@@ -1,4 +1,39 @@
-.image img{
+.facility {
+    background-color: #1F2327;
+    display: flex;
+    justify-content: space-between;
+    min-height: 600px;
+    align-items:center
+}
+
+.image {
     width: 540px;
     height: 360px;
+}
+
+.contentf {
+    width: 445px;
+}
+
+.contentf h1 {
+    font-size: 16px;
+}
+
+.contentf h2 {
+    font-size: 32px;
+    line-height: 40px;
+    padding-bottom: 15px;
+}
+
+
+
+.facilyList img{
+    display: inline;
+    padding-right: 15px;
+    
+}
+
+.facilyItem {
+    list-style: none;
+    padding-bottom: 10px;
 }
