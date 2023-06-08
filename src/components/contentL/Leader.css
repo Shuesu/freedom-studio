@@ -1,0 +1,34 @@
+.lordjosh{
+    background-color: #191C1F;
+    display: flex;
+    justify-content: space-between;
+    min-height: 600px;
+    align-items:center
+}
+
+.image {
+    width: 540px;
+    height: 360px;
+}
+
+.contentL {
+    width: 445px;
+}
+
+.contentL h1 {
+    font-size: 16px;
+}
+
+.contentL h2 {
+    font-size: 32px;
+    line-height: 40px;
+    padding-bottom: 15px;
+}
+
+.contentL p {
+    font-size: 18px;
+    text-transform: none;
+    line-height: 25px;
+    font-weight: 400;
+}
+

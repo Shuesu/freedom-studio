@@ -1,0 +1,47 @@
+.start{
+    background: url("/src/images/start-bg.png") no-repeat center center;
+    background-size: cover;
+    max-height: 495px;
+}
+
+.start-info {
+    max-width: 746px;
+    padding-bottom: 180px;
+    margin: auto;
+    text-align: center;
+    padding-top: 7.5%;
+}
+
+
+.info1{
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.info2{
+    font-size: 64px;
+    line-height: 75px;
+}
+
+.info3{
+    font-weight: 400;
+    text-transform: none;
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.link-button {
+    padding: 20px;
+    border-radius: 10rem;
+    background-color: #E82E2C;
+    display: inline-flex;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.link-button img {
+    padding-left: 15px;
+}

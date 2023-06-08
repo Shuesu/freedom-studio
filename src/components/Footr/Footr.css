@@ -1,0 +1,21 @@
+.footr {
+    background-color: #14171A;
+    max-height: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.logo-footr {
+    padding-top: 8% ;
+}
+
+.socialList {
+    display: flex;
+    gap: 10px
+}
+
+.socialItem {
+    list-style: none;
+}
